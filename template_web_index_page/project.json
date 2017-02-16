@@ -1,1 +1,8 @@
-{"guid":"template_web_index_page","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_web_index_page.git"}}
+{
+    "guid":"template_web_index_page",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_web_index_page.git"
+    }
+}
